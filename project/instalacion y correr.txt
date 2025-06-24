@@ -1,0 +1,8 @@
+cd backend
+npm install
+npm run dev
+
+fronted
+
+npm install
+npm run dev
